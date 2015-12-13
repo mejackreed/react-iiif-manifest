@@ -1,0 +1,25 @@
+{
+  "name": "react-iiif-manifest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-virtualized": "^2.1.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.0",
+    "babel-preset-react": "^6.3.13",
+    "file-loader": "^0.8.5",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Reed",
+  "license": "ISC",
+  "private": true
+}
